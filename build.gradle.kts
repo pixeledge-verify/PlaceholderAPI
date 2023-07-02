@@ -13,7 +13,7 @@ version = "2.11.4-DEV-${System.getProperty("BUILD_NUMBER")}"
 description = "An awesome placeholder provider!"
 
 repositories {
-    maven { url 'https://jitpack.io' }
+    maven("https://jitpack.io")
     maven("https://oss.sonatype.org/content/repositories/snapshots/")
 
     mavenCentral()
