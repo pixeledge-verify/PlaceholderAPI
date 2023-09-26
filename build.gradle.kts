@@ -3,7 +3,7 @@ import com.github.jengelman.gradle.plugins.shadow.tasks.ShadowJar
 plugins {
     `java-library`
     `maven-publish`
-    id("com.github.hierynomus.license") version "0.16.1"
+    id("com.github.hierynomus.license") version "0.16.2"
     id("com.github.johnrengelman.shadow") version "8.1.0"
 }
 
