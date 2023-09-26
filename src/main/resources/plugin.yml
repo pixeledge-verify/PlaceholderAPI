@@ -5,7 +5,7 @@ version: ${version}
 author: HelpChat
 
 api-version: "1.13"
-description: "An awesome placeholder provider!"
+description: "An awesome placeholder provider! Ported to Folia For Minex Network"
 folia-supported: true
 
 commands:
